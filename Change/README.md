@@ -1,4 +1,4 @@
-# Changes the infra
+# Change and destroy of the infra
 
 ![output](https://github.com/mahimasharu2208/Azure-ops-tf/blob/main/Change/Screenshots/change1.png)
 ![output](https://github.com/mahimasharu2208/Azure-ops-tf/blob/main/Change/Screenshots/change2.png)
